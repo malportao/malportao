@@ -4,7 +4,7 @@
 
 ### Hola, soy malportao.
 
-[Mi GitHub](https://github.com/bavorssss23) &nbsp; / &nbsp; [Repositorios](https://github.com/bavorssss23?tab=repositories)
+[Mi GitHub](https://github.com/malportao) &nbsp; / &nbsp; [Repositorios](https://github.com/malportao?tab=repositories)
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
@@ -37,7 +37,7 @@ También me interesa entender cómo funciona el malware y estudiar su desarrollo
 
 <br>
 
-Si quieres echar un vistazo, aquí están [mis repositorios públicos](https://github.com/bavorssss23?tab=repositories). El código de este perfil también está [en su repositorio](https://github.com/bavorssss23/bavorssss23).
+Si quieres echar un vistazo, aquí están [mis repositorios públicos](https://github.com/malportao?tab=repositories). El código de este perfil también está [en su repositorio](https://github.com/malportao/malportao).
 
 <div align="center">
 
