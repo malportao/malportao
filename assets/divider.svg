@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="40" viewBox="0 0 1024 40" role="img" aria-label="Separador ornamental">
+<defs><linearGradient id="line"><stop stop-color="#d25761" stop-opacity="0"/><stop offset=".5" stop-color="#d9c395"/><stop offset="1" stop-color="#d25761" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 20h480m64 0h480" stroke="url(#line)"/>
+<path d="M492 20l20-12 20 12-20 12z" fill="none" stroke="#8d6266"/>
+<path d="M505 20l7-7 7 7-7 7z" fill="#d9c395"/>
+<circle cx="480" cy="20" r="2" fill="#d25761"/><circle cx="544" cy="20" r="2" fill="#d25761"/>
+</svg>

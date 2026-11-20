@@ -1,138 +1,67 @@
 <div align="center">
 
-<img src="./banner.jpg" alt="Fondo estrellado del perfil de bavor" width="100%" />
+<img src="./assets/clevatess-banner.jpg" alt="bavor — Me gusta programar. Banner con Clevatess." width="100%" />
 
-# bavor
+### Hola, soy bavor.
 
-**Desarrollo de software · Linux · Creación de herramientas**
+[Mi GitHub](https://github.com/bavorssss23) &nbsp; / &nbsp; [Repositorios](https://github.com/bavorssss23?tab=repositories)
 
-<code>@bavorssss23</code>
-
-Me gusta programar, crear herramientas y explorar la seguridad informática con fines educativos.
-
-[Sobre mí](#sobre-mí) · [Intereses](#intereses) · [Stack](#stack-tecnológico) · [Repositorios](#repositorios-públicos) · [GitHub](#encuéntrame-en-github)
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 </div>
 
----
+Me gusta programar, crear herramientas y todo lo relacionado con **Linux**.
 
-## Sobre mí
+También me interesa entender cómo funciona el malware y estudiar su desarrollo **con fines educativos**, en entornos controlados y autorizados. Es un tema que me llama la atención junto con la programación.
 
-Soy **bavor**, desarrollador y entusiasta de **Linux**. La programación y la creación de herramientas son dos de mis principales intereses.
+Y sí, los banners son de **Clevatess**. No todo va a ser código.
 
-Mi stack reúne lenguajes como **C, C++, Python, JavaScript y TypeScript**, tecnologías web como **HTML, CSS y React**, y bases de datos como **MySQL y SQLite**.
+## Tecnologías
 
-También me interesa el **estudio y desarrollo de malware con fines educativos**. Este interés se plantea desde el aprendizaje técnico, en laboratorios aislados y entornos expresamente autorizados.
-
-| En pocas palabras | |
-| :--- | :--- |
-| **Alias** | bavor |
-| **Usuario** | [@bavorssss23](https://github.com/bavorssss23) |
-| **Intereses principales** | Programación, Linux y creación de herramientas |
-| **Interés en seguridad** | Estudio de malware con fines educativos |
-
-## Intereses
-
-### Programación
-
-Me interesa el desarrollo de software desde distintas perspectivas: lenguajes compilados como **C y C++**, programación con **Python** y tecnologías del ecosistema **JavaScript / TypeScript**.
-
-### Creación de herramientas
-
-Además de programar, me interesa crear herramientas de software. Es uno de los puntos que conecta mis intereses en desarrollo, Linux y seguridad informática.
-
-### Linux
-
-**Linux** forma parte de mi identidad técnica y de las tecnologías que destaco en mi perfil.
-
-### Seguridad educativa
-
-Me interesa comprender cómo funciona el malware y explorar su desarrollo con fines educativos. El contexto de este aprendizaje es la investigación responsable, no el uso contra sistemas ajenos.
-
----
-
-## Stack tecnológico
+Mi stack incluye **C, C++, Python, JavaScript y TypeScript**. Para la parte web, **HTML, CSS y React**; para bases de datos, **MySQL y SQLite**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,mysql,sqlite,linux&perline=6&theme=dark" alt="Stack: C, C++, Python, JavaScript, TypeScript, HTML, CSS, React, MySQL, SQLite y Linux" />
+<img src="./assets/stack-systems.svg" alt="Lenguajes: C, C++ y Python." width="400" />
+<img src="./assets/stack-web.svg" alt="Web: JavaScript, TypeScript, HTML, CSS y React." width="400" />
+<br>
+<img src="./assets/stack-data.svg" alt="Bases de datos: MySQL y SQLite." width="400" />
+<img src="./assets/stack-linux.svg" alt="Linux y su ecosistema." width="400" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,mysql,sqlite,linux&perline=11&theme=dark" alt="C, C++, Python, JavaScript, TypeScript, HTML, CSS, React, MySQL, SQLite y Linux" width="650" />
 
 </div>
 
 <br>
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes compilados** | C · C++ |
-| **Lenguaje de propósito general** | Python |
-| **Lenguajes del ecosistema web** | JavaScript · TypeScript |
-| **Estructura y estilos web** | HTML · CSS |
-| **Interfaces web** | React |
-| **Bases de datos relacionales** | MySQL · SQLite |
-| **Sistema operativo** | Linux |
-
 <details>
-<summary><strong>Ver el stack por áreas técnicas</strong></summary>
+<summary>Mi stack, por escrito</summary>
 
-### Lenguajes
-
-- **C:** lenguaje compilado con acceso directo a recursos de bajo nivel.
-- **C++:** lenguaje compilado con abstracciones de alto nivel y control sobre recursos.
-- **Python:** lenguaje de propósito general habitual en scripts, herramientas y automatización.
-- **JavaScript:** lenguaje utilizado en la web y en otros entornos de ejecución.
-- **TypeScript:** lenguaje que añade un sistema de tipos a JavaScript.
-
-### Tecnologías web
-
-- **HTML:** estructura y semántica del contenido.
-- **CSS:** presentación visual y estilos.
-- **React:** biblioteca para construir interfaces mediante componentes.
-
-### Datos y entorno
-
-- **MySQL:** sistema de gestión de bases de datos relacionales.
-- **SQLite:** motor de base de datos relacional integrado, sin un servidor independiente.
-- **Linux:** sistema operativo de referencia entre mis intereses técnicos.
+| Área | Tecnologías |
+| :--- | :--- |
+| Lenguajes | C, C++, Python, JavaScript y TypeScript |
+| Web | HTML, CSS y React |
+| Bases de datos | MySQL y SQLite |
+| Sistema operativo | Linux |
 
 </details>
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-## Repositorios públicos
-
-Puedes explorar mis repositorios directamente en GitHub para consultar el código y la documentación que tenga publicados.
-
-| Repositorio | Contenido |
-| :--- | :--- |
-| [bavorssss23 / bavorssss23](https://github.com/bavorssss23/bavorssss23) | Repositorio de este perfil: presentación, stack tecnológico y banner. |
-
-**[Explorar todos los repositorios públicos](https://github.com/bavorssss23?tab=repositories)**
-
-## Seguridad y uso responsable
-
-Mi interés en malware es **educativo**. El marco para este tipo de aprendizaje es:
-
-- Experimentación en **laboratorios aislados**, sin afectar a terceros.
-- Trabajo únicamente sobre sistemas propios o con **autorización explícita**.
-- Respeto a la privacidad, a los datos y a los límites del entorno de prueba.
-- Documentación del contexto y de las limitaciones de cualquier material educativo que se comparta.
-
----
-
-## Encuéntrame en GitHub
-
-| Destino | Enlace |
-| :--- | :--- |
-| **Perfil y actividad** | [github.com/bavorssss23](https://github.com/bavorssss23) |
-| **Repositorios** | [Explorar código público](https://github.com/bavorssss23?tab=repositories) |
-| **Código de este perfil** | [Abrir el repositorio de presentación](https://github.com/bavorssss23/bavorssss23) |
-
-<div align="center">
+<img src="./assets/clevatess-scene.jpg" alt="Banner de Clevatess con Alicia y detalles rojos y dorados." width="100%" />
 
 <br>
 
-**bavor** · <code>@bavorssss23</code>
+Si quieres echar un vistazo, aquí están [mis repositorios públicos](https://github.com/bavorssss23?tab=repositories). El código de este perfil también está [en su repositorio](https://github.com/bavorssss23/bavorssss23).
 
-Programación · Linux · Herramientas · Seguridad educativa
+<div align="center">
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+**Gracias por pasarte.**
+
+<sub>Ilustraciones de Clevatess: ©Yuji Iwahara/LDF/クレバテス製作委員会 · <a href="https://clevatess.com/1st/">Fuente oficial</a>.<br>Este es un perfil personal, sin afiliación con la serie.</sub>
 
 </div>
